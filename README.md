@@ -5,6 +5,9 @@
 Aman Kumar  
 B.Tech CSE, IIT Patna  
 
+🔗 GitHub Repository:  
+https://github.com/yourusername/bodywash-classification
+
 ---
 
 # Overview
