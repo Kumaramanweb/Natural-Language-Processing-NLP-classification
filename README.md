@@ -11,7 +11,7 @@ B.Tech CSE, IIT Patna
 
 This project performs **automatic classification of bodywash product reviews into Level-1 Factors** using a **pretrained Large Language Model (LLM)**.
 
-Each review is assigned exactly **one factor** such as:
+Each review is assigned **one or more factor**  such as:
 
 - Fragrance
 - Packaging
