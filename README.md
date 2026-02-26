@@ -6,7 +6,7 @@ Aman Kumar
 B.Tech CSE, IIT Patna  
 
 🔗 GitHub Repository:  
-https://github.com/yourusername/bodywash-classification
+https://github.com/Kumaramanweb/Natural-Language-Processing-NLP-classification.git
 
 ---
 
