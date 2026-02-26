@@ -134,15 +134,6 @@ Each test review should be assigned its correct factor(s).
 
 ---
 
-## Summary
-
-This project demonstrates the application of Large Language Models for:
-
-- Text classification
-- NLP automation
-- Semantic understanding of product reviews
-
-using prompt-based classification techniques.
 
 # Model Used
 
@@ -340,6 +331,16 @@ for text in tqdm(test['Core Item']):
 | Industry Standard Approach | Widely used in real-world NLP applications and production systems |
 
 ---
+
+# Summary
+
+This project demonstrates the application of Large Language Models for:
+
+- Text classification
+- NLP automation
+- Semantic understanding of product reviews
+
+using prompt-based classification techniques.
 
 
 
